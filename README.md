@@ -1,2 +1,3 @@
 # Web-Projet
-cats are perfec
+Voldřich Pavel Vavřinec
+HTML, CSS, PHP, BOOTSRAP
